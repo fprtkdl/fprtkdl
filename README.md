@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:flex; flex-direction:column; align-items:center;">
-<img src="https://github-readme-stats.vercel.app/api?username=fprtkdl&show_icons=true&theme=tokyonight" alt="balhyo-youjisang's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fprtkdl&layout=compact&theme=dracula" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=fprtkdl&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fprtkdl&layout=compact">
 </div>
